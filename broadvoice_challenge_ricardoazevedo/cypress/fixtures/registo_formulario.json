@@ -1,0 +1,25 @@
+[
+  {
+    "name": "user1",
+    "email": "user1@example.com",
+    "confirmEmail": "user1@example.com",
+    "password": "pass1",
+    "confirmPassword" : "pass1"
+  },
+  {
+    "name": "user2",
+    "email": "user2@example.com",
+    "confirmEmail": "user2@example.com",
+    "password": "pass2",
+    "confirmPassword" : "pass2"
+  },
+  {
+    "name": "user3",
+    "email": "user3@example.com",
+    "confirmEmail": "user3@example.com",
+    "password": "pass3",
+    "confirmPassword" : "pass3"
+  }
+  
+ 
+]
